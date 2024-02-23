@@ -1,0 +1,8 @@
+torch>=1.9.0
+transformers>=4.5.0
+faiss-cpu>=1.7.0  # Use faiss-gpu for GPU support
+numpy
+PyPDF2
+python-docx
+sentence-transformers
+
