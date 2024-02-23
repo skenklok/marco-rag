@@ -1,4 +1,3 @@
-```
 # RAG-based Document Interaction System
 
 This repository contains a Python application that utilizes a Retriever-Augmented Generation (RAG) model for document interaction. It allows users to chat with a set of documents, retrieving information and generating responses based on the content of these documents. This system is particularly useful for navigating large sets of documents, such as manuals, reports, or any collection of text documents, by asking questions in natural language.
@@ -66,4 +65,4 @@ Contributions to the project are welcome! Please refer to the `CONTRIBUTING.md` 
 This project is licensed under the MIT License - see the `LICENSE` file for details.
 
 #
-```
+
